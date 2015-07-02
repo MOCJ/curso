@@ -1,11 +1,12 @@
+<header id="main-header">
 <div class="container">
 
 	<div class="row">
 		<div class="col-xs-4" class="logo">
-			<center><h1 id= "main-logo" ><a style="color:#08088A; bold;"href="index.php">FELINA <span style="color:#08088A;">Producciones</span></a></h1></center>
+			<center><h1 id= "main-logo" ><a href="index.php">FELINA <span>Producciones</span></a></h1></center>
 		</div>
 		<div class="col-xs-8">
-			<b><h2>TeatriPlanet</h2></b>
+			<b><h2 id="title">PimPomPlayer</h2></b>
 		</div>
 	</div>
 	<div class="row">
@@ -27,3 +28,4 @@
 	</div>
 
 </div>
+</header>
