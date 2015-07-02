@@ -1,5 +1,26 @@
+body {
+		font-family: 'Source Sans Pro', 
+		'helvetica Neve', helvetica, arial, sans-serif;
 
+	 }
 
-.logo { color: #FF0000;}
+p {
 
-h2 { color: #6E6E6E}
+	color: #777;
+	font-size: 16px;
+	font-size:  1.6rem;
+	font-weight: 300;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+ul li {
+
+	margin-bottom: 5px;
+
+}
+
