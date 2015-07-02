@@ -47,6 +47,7 @@ ul li {
 	font-size: 50px;
 	font-size: 4rem;
 	text-decoration: none;
+	font-weight: bold;
 }
 
 #main-logo {
@@ -78,3 +79,37 @@ ul li {
 	float: right;
 	margin-top: 38px;
 }
+
+#main-menu a {
+	color: #000000;
+	font-weight: bold;
+	font-size: 15px;
+	font-size: 1.4rem;
+}
+
+#main-menu a:hover {
+	color: #FF8C00;
+}
+
+#main-menu.nav-pills>li.active>a;
+#main-menu.nav-pills>li.active>a:hover;
+#main-menu.nav-pills>li.active>a:focus;
+#main-menu.nav-pills>li>a:hover; {
+	background: none;
+}
+
+
+#main-menu.nav-pills>li.active>a;
+#main-menu.nav-pills>li.active>a:hover;
+#main-menu.nav-pills>li.active>a:focus;{
+	background: #F4A460;
+}
+
+#main-menu.nav .open>a;
+#main-menu.nav .open>a:hover;
+#main-menu.nav .open>a:focus; {
+	/*background: none;*/
+}
+
+
+
